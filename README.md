@@ -1,14 +1,14 @@
 # Mockup Sistem ASMI
 
-Proyek ini merupakan mockup sistem untuk ASMI (Akademi Sekretari dan Manajemen Indonesia).  
-Repository ini dibuat untuk keperluan UTS/UAS mata kuliah *Desain dan Pemodelan Sistem Informasi*.
+Proyek ini merupakan mockup sistem untuk ASMI (Asrama Mahasiswi).  
+Repository ini dibuat untuk keperluan UTS/UAS mata kuliah Design Thinking.
 
 ## 👩‍💻 Dibuat oleh
 **Syifa Fauziah Juliyansa**
 
 ## 📋 Deskripsi Singkat
-Sistem ini bertujuan untuk mempermudah pengelolaan data mahasiswa, dosen, dan jadwal perkuliahan secara digital.  
-Mockup dibuat menggunakan tools seperti **Figma** dan **Canva**.
+Sistem ini bertujuan untuk mempermudah pengelolaan data mahasiswa yang bisa diakses dan dipantau langsung oleh pengelola.  
+Mockup dibuat menggunakan tools seperti **Figma** dan **draw.io**.
 
 ## 📂 Struktur Repository
 📁 mockup-sistem-ASMI-syifa-fauziah
