@@ -26,16 +26,28 @@
         img {
             width: 220px;
             height: 220px;
-            border-radius: 50%;
+            border-radius: 20px;
             object-fit: cover;
-            margin-top: 25px;
+            margin: 15px;
             box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+        }
+
+        img:hover {
+            transform: scale(1.05);
         }
 
         footer {
             margin-top: 60px;
             font-size: 14px;
             color: #666;
+        }
+
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 40px;
         }
     </style>
 </head>
@@ -45,6 +57,22 @@
     <h2>NIM   : 222511030</h2>
 
     <img src="syifa.jpeg" alt="Foto Syifa Fauziah Juliyanza">
+
+    <!-- Galeri hasil desain -->
+    <div class="gallery">
+        <img src="img/1. Login.png" alt="Login Page">
+        <img src="img/2. Verification Code.png" alt="Verification Code">
+        <img src="img/3. Get Started first.png" alt="Get Started First">
+        <img src="img/4. Get Started second.png" alt="Get Started Second">
+        <img src="img/5. dashboard.png" alt="Dashboard">
+        <img src="img/6. crud 1 read.png" alt="CRUD Read">
+        <img src="img/7. crud 2 input.png" alt="CRUD Input">
+        <img src="img/8. crud 3 edit.png" alt="CRUD Edit">
+        <img src="img/9. crud 4 delete.png" alt="CRUD Delete">
+        <img src="img/10. adminiastrasi.png" alt="Administrasi">
+        <img src="img/11. view pengumpulan ad.png" alt="View Pengumpulan">
+        <img src="img/12. adm pembayaran.jpg" alt="Adm Pembayaran">
+    </div>
 
     <footer>
         <p>© 2025 | Sistem Mockup by Syifa Fauziah Juliyanza</p>
